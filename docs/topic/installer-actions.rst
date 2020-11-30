@@ -11,7 +11,7 @@ run on.
 ==========================
 
 The packages ``python3`` and ``python3-venv`` are installed from the apt repositories.
-Since we need an recent & supported version of ``nodejs``, we install it from 
+Since we need a recent & supported version of ``nodejs``, we install it from 
 `nodesource <https://github.com/nodesource/distributions>`_.
 
 Hub environment
